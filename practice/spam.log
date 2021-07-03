@@ -1,0 +1,6 @@
+2019-09-21 11:46:14,078 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2019-09-21 11:46:25,743 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2019-09-21 11:46:28,368 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2019-09-21 11:46:39,390 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2019-09-21 11:46:41,012 - spam_application - INFO - calling auxiliary_module.some_function()
+2019-09-21 11:46:45,991 - spam_application - INFO - done with auxiliary_module.some_function()
